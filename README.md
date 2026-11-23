@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/zekemonkeyking/makefun-gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/zekemonkeyking/makefun-gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: an insurance claim form from Leonida Insurance. Loss: 13 years waiting for GTA 6, 4,811 days with no social life. Payout: paid by my AI agent on make.fun, stamped APPROVED by make.fun's white ghost mascot in a tie, holding a bag of money and its magenta star coin. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: an 8-bit pixel-art pre-order receipt from Vice City Game Store, in the style of a CryptoPunks NFT. GTA VI was pre-ordered on 17 Sep 2013 and is finally ready for pickup on 19 Nov 2026 after 4,811 days; the receipt lists a $4,811.00 waiting fee, a midnight launch pizza and a thrown controller, for a total due of $4,962.98, stamped FINALLY READY. The magenta banner at the bottom shows make.fun's white ghost mascot redrawn as pixel art holding its magenta star coin, with the text "PAID BY MY AI AGENT with real money it won in make.fun bounties". Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
 ## Run it
 
