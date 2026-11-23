@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/zekemonkeyking/makefun-gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/zekemonkeyking/makefun-gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: waited 13 years for GTA 6, and while I waited my AI agent made money on make.fun. The meme shows make.fun's white ghost mascot on the couch next to a gamer, holding a bag of money and its magenta star coin, in front of a TV showing GTA VI in Vice City, with a calendar crossed out from 2013 to 2026 behind them. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty: an insurance claim form from Leonida Insurance. Loss: 13 years waiting for GTA 6, 4,811 days with no social life. Payout: paid by my AI agent on make.fun, stamped APPROVED by make.fun's white ghost mascot in a tie, holding a bag of money and its magenta star coin. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
 ## Run it
 
